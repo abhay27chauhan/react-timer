@@ -1,2 +1,3 @@
 # react-timer
-Created with CodeSandbox
+
+Dynamic timer using react and hooks
